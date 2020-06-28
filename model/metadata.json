@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2020-06-28T09:04:43.296Z","userMetadata":{},"modelName":"my-pose-model","labels":["목 뒤로 젖히기","왼손으로 머리 누르기","왼손 들기","오른손으로 머리 누르기","오른손 들기"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
